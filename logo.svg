@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="svg2" width="3201.3333" height="2668" viewBox="0 0 3201.3333 2668" xmlns="http://www.w3.org/2000/svg">
+  <g id="g8" transform="matrix(1.333333, 0, 0, -1.333333, 0, 2668)">
+    <g id="g10" transform="scale(0.1)">
+      <path d="M 24005 27.636 L 5 27.636 L 5 20027.636 L 24005 20027.636 L 24005 27.636" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(212, 212, 212);" id="path12"/>
+      <path d="M 24005,5 H 5 v 20000 h 24000 z" style="fill: none; stroke: rgb(35, 31, 32); stroke-width: 10; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; stroke-dasharray: none; stroke-opacity: 1;" id="path14"/>
+      <path d="m 11352.8,15024.1 -537,-930.5 341.3,-591.8 195.7,338.8 479.7,-831 341.7,591.7 z m -4341.2,-8702.7 147.2,254.8 h -683.1 l -488.9,-846.6 h 1642.4 l 341.8,591.8 z m 3377,7032.5 -3486.1,-6038 h 683.1 l 3144.4,5446.3 -341.4,591.7" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(241, 90, 90);" id="path16"/>
+      <path d="m 16719.2,5729.6 h -8236 l 341.7,591.8 h 6869.4 l -3434.7,5948.9 341.8,591.4 4117.8,-7132.1" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(240, 196, 25);" id="path18"/>
+      <path d="M 11255.5,11852.4 8635.9,7315.9 h 683.5 l 2277.5,3944.7 -341.4,591.8" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(78, 186, 111);" id="path20"/>
+      <path d="M 18023.2,4985.9 H 7290.8 l 918.3,1590.3 h 683.1 l -576.5,-998.6 h 8682.7 l -4341.2,7519.3 -633.2,-1096.6 -341.7,591.7 974.9,1688.4 5366,-9294.5" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(149, 91, 165);" id="path22"/>
+      <path d="M 15155.9,6576.2 H 8892.2 l 427.2,739.7 h 4555 l -2277.5,3944.7 427.1,739.7 3131.9,-5424.1" style="fill-opacity: 1; fill-rule: nonzero; stroke: none; fill: rgb(45, 149, 191);" id="path24"/>
+    </g>
+  </g>
+</svg>
